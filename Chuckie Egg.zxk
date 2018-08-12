@@ -1,0 +1,11 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# Uses a more conventional button mapping and does not require redefining keys
+T:Chuckie Egg
+F:Chuckie Egg.tap
+M:48
+H:When the intro music has finished playing, press Select, then 1 to start a 1 player game. Use the virtual keyboard if you would like to begin a multiplayer game. While holding A, press B to pause and C to abort the game.
+A:Nigel Alderton
+R:A&F Software
+K:EN;2;W;9;0;Z;S;1;I;CS;H;A;
+D:;Up;Down;Left;Right;Jump;Start;1;Instructions;Caps shift;H;A;
+

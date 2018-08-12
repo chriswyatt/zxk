@@ -1,0 +1,10 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# Supports the Kempston interface, pausing and tune toggling
+T:Manic Miner
+F:manicminer.tap
+M:48
+A:Matthew Smith
+R:Bug Byte
+K:;;;;;;EN;;;A;1;;
+D:;;;Left;Right;Jump;Start / Tune;;;Pause;Resume;;
+

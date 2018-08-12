@@ -1,0 +1,9 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+T:Championship Run
+F:CHAMPRUN.TAP
+M:48
+A:Impulze
+R:Impulze
+K:;V;C;O;P;SP;SP;X;;;;;
+D:;Gear Up;Gear Down;Left;Right;Accelerate;Start;Brake;;;;;
+

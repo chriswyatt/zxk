@@ -1,0 +1,11 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# Keyboard
+T:Boulder Dash
+F:BOULDER1.TAP
+M:48
+H:... To select a different CAVE, press left or right when you are in the menu screen. To select a different Difficulty Level, go to the menu screen and press up or down ...
+A:Dalali Software Ltd, Peter Liepa, Chris Gray
+R:Front Runner
+K:EN;E;F;M;SS;N;;;P;SP;Q;S;
+D:;Up;Down;Left;Right;Fire;;;Number of players;Pause;Restart cave;Reset game;
+

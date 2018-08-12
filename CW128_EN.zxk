@@ -1,0 +1,9 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+T:Car Wars (En) (SZX)
+F:CW128_EN.szx
+M:128
+A:Salvakantero
+R:N/A
+K:;Q;A;O;P;SP;1;1;;;;;
+D:;Up;Down;Left;Right;Fire;Start;Start;;;;;
+

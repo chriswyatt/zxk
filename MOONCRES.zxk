@@ -1,0 +1,9 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+T:Moon Cresta
+F:MOONCRES.TAP
+M:48
+A:Timothy Walter, Philip Taglione, Pete Carter
+R:Incentive Software Ltd
+K:EN;;;CS;Z;SP;6;;;H;;A;
+D:;;;Left;Right;Fire;Start;;;Pause / Step;;Quit;
+

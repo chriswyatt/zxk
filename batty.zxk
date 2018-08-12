@@ -1,0 +1,10 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# Supports 1 or 2 players (native pause supported, double play unsupported)
+T:Batty
+F:batty.tap
+M:48
+A:Mark Crane
+R:Hit-Pak
+K:;;;D;F;C;0;1;2;Q;;;
+D:;;;Left;Right;Release;Start;1 Player;2 Players;Pause;;;
+

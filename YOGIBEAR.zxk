@@ -1,0 +1,11 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# Supports the Kempton interface and other functions via the keyboard
+T:Yogi Bear
+F:YOGIBEAR.TAP
+M:48
+H:Press up / down while holding the fire key, to turn into a bush / duck
+A:Dalali Software Ltd
+R:Piranha
+K:3 EN;;;;;;EN;;;H;;Q;
+D:;Up / turn into a bush;Down / duck;Left;Right;Jump / 2nd action;Start;;;Pause;;Quit;
+

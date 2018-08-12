@@ -1,0 +1,9 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+T:Falling Blocks (Jul 26, 2015)
+F:fallingblocks.tap
+M:48
+A:soiaf
+R:soiaf
+K:;G;D;O;P;H;1;SP;S;2;3;4;
+D:;Ghost;Drop;Left;Right;Rotate (CW);1;Rotate (ACW);Swap;2;3;4;
+

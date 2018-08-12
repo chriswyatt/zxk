@@ -1,0 +1,11 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# Supports the Kempston interface and other functions via the keyboard
+T:Gulpman
+F:GULPMAN.TAP
+M:48
+H:Eat the fruit, avoid the nasties. That's all there is to it!
+A:John A. Campbell
+R:Campbell Systems
+K:;;;;;;P;M;T;G;R;X;
+D:;Up;Down;Left;Right;Laser;Play;Maze;Tempo;Grade;Reset high score;Quit;
+

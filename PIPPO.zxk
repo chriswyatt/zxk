@@ -1,0 +1,11 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# Supports the Kempston interface and other functions via the keyboard
+T:Pippo
+F:PIPPO.TAP
+M:48
+H:Ensure that the Kempston interface is selected before starting the game
+A:Giovanni Zanetti, Paolo Malnati, RAF
+R:Mastertronic Ltd
+K:EN EN EN EN 2;;;;;;0;5;2;SP;;EN;
+D:;Up;Down;Left;Right;;Start;Instructions;Kempston;Pause;;Abort;
+

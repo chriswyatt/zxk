@@ -1,0 +1,11 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# I plan to map pause/resume to individual keys, when support is added to the key map editor
+T:R-Type (TAP)
+F:r-type.tap
+M:128
+H:While holding down A, press B to pause the game or C to resume the game.
+A:Software Studios
+R:Electric Dreams Software
+K:SP SP SP;O;K;Q;W;P;P;SP;;CS;1;2;
+D:;Up;Down;Left;Right;Fire;Start game;Detach;;Caps shift;1;2;
+

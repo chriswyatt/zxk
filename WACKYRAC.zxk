@@ -1,0 +1,10 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+T:Wacky Races (Matasoft 92 crack)
+F:WACKYRAC.Z80
+M:48
+H:Use the virtual keyboard if you would like to select cheat options before starting the game
+A:PAL Developments
+R:Hi-Tec Software Ltd
+K:EN EN SP C;;;O;P;SP;;Q;;T;;G;
+D:;;;Brake / reverse / left;Accelerate / right;Fire;;Jump;;Pause;;Restart;
+

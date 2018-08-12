@@ -1,0 +1,9 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+T:Jet Set Willy 2015 - Bug Fixed
+F:Jetset_2015_Bugfixed.tap
+M:48
+A:spider
+R:spider
+K:;;;;;;EN;;;A;1;;
+D:;;;Left;Right;Jump;Start / Tune;;;Pause;Resume;;
+

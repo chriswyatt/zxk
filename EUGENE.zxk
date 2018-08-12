@@ -1,0 +1,11 @@
+# ZX Spectrum Vega keymap created by Chris Wyatt
+# Kempston interface
+T:Eugene - Lord of the Bathroom
+F:EUGENE.TAP
+M:48
+H:Enter the BREAK command to return to the title screen
+A:Vidar Eriksen
+R:Manic Miner Technologies
+K:;;;;;;EN;;;A;;;
+D:;;;Left;Right;Jump;Start game;;;Pause;;;
+
